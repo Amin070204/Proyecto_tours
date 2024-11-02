@@ -66,8 +66,8 @@ label{
 }
 .titlepac {
     color: white;
-    padding-top: 190px;
-    font-size: 20px;
+    padding-top: 172px;
+    font-size: 10px;
     font-family: Arial, Helvetica, sans-serif;
 }
 /* HIPERVINCULOS DE LOS PAQUETES */
@@ -91,8 +91,7 @@ label{
 .text {
     /* Texto */
     position: relative;
-    margin-bottom: 2px;
-    bottom: 3px;
+    padding-top: 2px;
     text-align: center;
     color: #f7dc6f;
     font-weight: bolder;

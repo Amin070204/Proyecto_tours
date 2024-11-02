@@ -8,7 +8,7 @@
             <div class="paquete">
                 <div class="img_one">
                     <div class="titlepac">
-                        <h3><a href="detalle_paquete.html">¡CHIAPA DE CORZO!</a></h3>
+                        <h3><a href="detalle_paquete.html"><b>¡CHIAPA DE CORZO!</b></a></h3>
                     </div>
                     <div class="text">
                         <p>$8000</p>
@@ -20,7 +20,7 @@
             <div class="paquete">
                 <div class="img_two">
                     <div class="titlepac">
-                        <h3><a href="">¡PALENQUE!</a></h3>
+                        <h3><a href=""><b>¡PALENQUE! <br><br></b></a></h3>
                     </div>
                     <div class="text">
                         <p>$9100</p>
@@ -32,13 +32,13 @@
             <div class="paquete">
                 <div class="img_thre">
                     <div class="titlepac">
-                        <h3><a href="">¡SAN CRISTOBAL!</a></h3>
+                        <h3><a href=""><b>¡SAN CRISTOBAL!<br><br></b></a></h3>
                     </div>
                     <div class="text">
                         <p>$9000</p>
                     </div>
                     <p>2 DIAS 3 NOCHES</p>
-                    <p>Es la ciudad más importante de<br> la Región de Los Altos de Chiapas​</p>
+                    <p>La ciudad más importante de la Región de Los Altos de Chiapas​</p>
                 </div>
             </div>
         </div>
@@ -46,36 +46,36 @@
             <div class="paquete">
                 <div class="img_cuatro">
                     <div class="titlepac">
-                        <h3><a href="">¡CASCADAS DE <br> AGUA AZUL!</a></h3>
+                        <h3><a href=""><b>¡CASCADAS DE <br> AGUA AZUL!</b></a></h3>
                     </div>
                     <div class="text">
                         <p>$7000</p>
                     </div>
-                    <p>1 DIA Y 2 NOCHES</p><br>
+                    <p>1 DIA Y 2 NOCHES</p>
                     <p>Vive, conoce y disfruta <br>Chiapas</p>
                 </div>
             </div>
             <div class="paquete">
                 <div class="img_cinco">
                     <div class="titlepac">
-                        <h3><a href="">¡COMITAN DE <br>DOMINGUEZ!</a></h3>
+                        <h3><a href=""><b>¡COMITAN DE <br>DOMINGUEZ!</b></a></h3>
                     </div>
                     <div class="text">
                         <p>$7850</p>
                     </div>
-                    <p>2 DIAS 3 NOCHES</p><br>
-                    <p>Ciudad mexicana situada en el<br>estado de Chiapas,<br>cabecera del municipio homónimo</p>
+                    <p>2 DIAS 3 NOCHES</p>
+                    <p>Situada en el estado de Chiapas,cabecera del municipio homónimo</p>
                 </div>
             </div>
             <div class="paquete">
                 <div class="img_seis">
                     <div class="titlepac">
-                        <h3><a href="">¡SIMA DE LAS <br>COTORRAS!</a></h3>
+                        <h3><a href=""><b>¡SIMA DE LAS <br>COTORRAS!</b></a></h3>
                     </div>
                     <div class="text">
                         <p>$7200</p>
                     </div>
-                    <p>1 DIAS 2 NOCHES</p><br>
+                    <p>1 DIAS 2 NOCHES</p>
                     <p>Vive, conoce y disfruta <br>Chiapas</p>
                 </div>
             </div>
